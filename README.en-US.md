@@ -11,9 +11,9 @@ The goal is to implement an application to create memes. The task is divided int
 3. Add / edit a text in the lower area of the screen
 4. Possibility to download the meme (JPG / PNG / GIF)
 5. Styling of the texts
-    - Font size
-    - Font color (color picker)
-    - Font (Arial, Comic Sans, Pacifico)
+   - Font size
+   - Font color (color picker)
+   - Font (Arial, Comic Sans, Pacifico)
 
 ## 2. Design
 
